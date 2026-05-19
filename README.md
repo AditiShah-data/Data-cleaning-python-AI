@@ -50,7 +50,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 - Then, for business recommendation from the data, i made some graphs using AI.
 
 ### Graphs
-- [Location, items and total revenue:](#graph/location.png)
+- [Location, items and total revenue:](graph/location.png)
   
 This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway. This will help us in future to create or improve things for our customers. Like for takeaway, secured go-to packs that avoids spiling of prduct and also easy to carry. If in-store, we cane improver store atmosphere and maintaing basic qualities. 
 
