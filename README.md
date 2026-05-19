@@ -49,6 +49,11 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 - For remaining, i left them untouched as i did not have much data a or a column relating with them to fill null values.
 - Then, for business recommendation from the data, i made some graphs using AI.
 
+### Graphs
+#### -> Location, items and total revenue:
+This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway. 
+
+
 ---
 
 ## What I learnt?
@@ -59,6 +64,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 - I also learnt that columns like quantity, price per unit and total price helps in analysis.
 - Rows with such missing values are less useful.
 
+      
 ---
 ## What I am confident about?
 
