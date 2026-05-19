@@ -44,7 +44,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
    - Per unit price = total price/quantiy
    - Total price = quantity*per unit price
  
-- I again used AI to write me a code to get the information [all items and their per unit price](#per_unit_price-items/unit_price-items.png) which was grouped by per unit price.
+- I again used AI to write me a code to get the information [all items and their per unit price](per_unit_price-items/unit_price-items.png) which was grouped by per unit price.
 - Those per unit price with only single items, was used to fill null values in items column for only those rows which had that perticular price.
 - For remaining, i left them untouched as i did not have much data a or a column relating with them to fill null values.
 - Then, for business recommendation from the data, i made some graphs using AI.
