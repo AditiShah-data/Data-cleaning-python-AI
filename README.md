@@ -5,6 +5,8 @@ I have done this project just to learn purely about data cleaning be it duplicat
 - [About project](#about-project)
 - [Tools used](#tools-used)
 - [What I did?](#what-i-did)
+  
+   - [Graphs](#graph)
 - [What I learnt?](#what-i-learnt)
 - [What I am confident about?](#what-i-am-confident-about)
 - [About me](#about-me)
@@ -52,15 +54,19 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 ### Graphs
 - [Location, items and total revenue:](#graph/location.png)
   
-This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway.
+This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway. This will help us in future to create or improve things for our customers. Like for takeaway, secured go-to packs that avoids spiling of prduct and also easy to carry. If in-store, we cane improver store atmosphere and maintaing basic qualities. 
 
 - [Payment, items and total revenue:](graph/payment.png)
   
-This graph shows which item generates more revenue and what payment method do customers usually prefer for payin for it.
+This graph shows which item generates more revenue and what payment method do customers usually prefer for payin for it. This will help us know which payment method is mostly used and so we can improve that payment method and help customer pay without any inconvenience..
 
 - [Items and total revenue:](graph/price&unit.png) 
 
 This graph shows which items generate more revenue which will help in estimating popular item among the consumers. It will help during advertisements to adverstise the business too alson with item. Also, will help business to produce more of this product during demand.
+
+- [Items & months performance](graph/items-performance.png)
+  
+This graph shows perfomane of months and items. Months are arranged in descending order using total revenue generated each month. Items are also shown in descening order in each month. The winning product was salad and losing product was cookie. And, winning month was June and losing month is February.
 ---
 
 ## What I learnt?
