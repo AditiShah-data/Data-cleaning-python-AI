@@ -51,11 +51,16 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 
 ### Graphs
 - [Location, items and total revenue:](#graph/location.png)
+  
 This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway.
-(graph/payment.png)
-(graph/price&unit.png) 
 
+- [Payment, items and total revenue:](graph/payment.png)
+  
+This graph shows which item generates more revenue and what payment method do customers usually prefer for payin for it.
 
+- [Items and total revenue:](graph/price&unit.png) 
+
+This graph shows which items generate more revenue which will help in estimating popular item among the consumers. It will help during advertisements to adverstise the business too alson with item. Also, will help business to produce more of this product during demand.
 ---
 
 ## What I learnt?
