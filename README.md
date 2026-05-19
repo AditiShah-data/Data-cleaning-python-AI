@@ -5,8 +5,6 @@ I have done this project just to learn purely about data cleaning be it duplicat
 - [About project](#about-project)
 - [Tools used](#tools-used)
 - [What I did?](#what-i-did)
-  
-   - [Graphs](#graph)
 - [What I learnt?](#what-i-learnt)
 - [What I am confident about?](#what-i-am-confident-about)
 - [About me](#about-me)
