@@ -36,7 +36,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 
 ## What I did?
 
-- I uploaded the csv by myself and added [basic codes] to get information of my data.
+- I uploaded the csv by myself and added [basic codes](basic_code.png) to get information of my data.
 - I used [codes] in order to lowercase my column names and remove unnecessary empty rows.
 - I then wrote my prompt in ChatGPT to solve null values of columns like quantity, per unit price and total price.
 
@@ -54,7 +54,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 ## What I learnt?
 
 - I learnt about cleaning the messy data and try to create some relations among columns like quantity, price per unit and total price to fill null values.
-- I can write [basic codes] to understand the data.
+- I can write [basic codes](basic_code.png) to understand the data.
 - I learnt how to use per unit price to get missing items.
 - I also learnt that columns like quantity, price per unit and total price helps in analysis.
 - Rows with such missing values are less useful.
