@@ -65,6 +65,9 @@ This graph shows which items generate more revenue which will help in estimating
 - [Items & months performance](graph/items-performance.png)
   
 This graph shows perfomane of months and items. Months are arranged in descending order using total revenue generated each month. Items are also shown in descening order in each month. The winning product was salad and losing product was cookie. And, winning month was June and losing month is February.
+
+### [Business recommendations](business_recommendations.txt)
+
 ---
 
 ## What I learnt?
