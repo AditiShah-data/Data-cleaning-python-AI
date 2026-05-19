@@ -54,7 +54,7 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
   
 This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway. This will help us in future to create or improve things for our customers. Like for takeaway, secured go-to packs that avoids spiling of prduct and also easy to carry. If in-store, we cane improver store atmosphere and maintaing basic qualities. 
 
-- [Payment, items and total revenue:](graph/payment.png)
+- [Payment, items and total revenue:](graph/payment_method.png)
   
 This graph shows which item generates more revenue and what payment method do customers usually prefer for payin for it. This will help us know which payment method is mostly used and so we can improve that payment method and help customer pay without any inconvenience..
 
