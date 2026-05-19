@@ -51,7 +51,8 @@ I used this data for purpose of learning data cleaning mainly and increasing my 
 
 ### Graphs
 - [Location, items and total revenue:](#graph/location.png)
-This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway. 
+This graph shows which item generate more revenue and during in-store or takeaway. Which basically means that, which product generates more revenue and customers buying that product usually prefers either in-store or takeaway.
+(graph/payment.png) 
 
 
 ---
